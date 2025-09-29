@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-29T09:34:31.567715",
+    "model_used": "gemini-2.5-flash-lite",
+    "generator_version": "1.0",
+    "source": "streamlit_live_ai_generator_d2c",
+    "seo_category": "Astrology Services",
+    "campaigns_provided": 10,
+    "average_roas": 8.808989600995888,
+    "average_ctr": 15.552102861741815,
+    "total_revenue": 42667.99,
+    "channels_included": 4
+  },
+  "insights": {
+    "seo_category": "Astrology Services",
+    "total_campaigns": 10,
+    "top_performers": [
+      {
+        "campaign_name": "CAMP_005 (Instagram Influencer)",
+        "roas": 25.7,
+        "conversion_rate": 3.0,
+        "success_factors": "High ROAS driven by strong revenue generation relative to spend. High signup volume suggests effective audience targeting and compelling offer. Low CAC indicates efficient customer acquisition."
+      },
+      {
+        "campaign_name": "CAMP_042 (Instagram Influencer)",
+        "roas": 14.7,
+        "conversion_rate": 2.37,
+        "success_factors": "Strong ROAS and high install volume, indicating effective reach and initial engagement. The high number of first purchases suggests a good conversion funnel from install to purchase. CAC is relatively low."
+      },
+      {
+        "campaign_name": "CAMP_008 (Meta Ads)",
+        "roas": 14.6,
+        "conversion_rate": 4.66,
+        "success_factors": "Excellent conversion rate from clicks to signups, coupled with a strong ROAS and a very low CAC. This campaign effectively converts interested users into paying customers."
+      }
+    ],
+    "optimization_recommendations": [
+      {
+        "campaign_type": "Google Ads (CAMP_027)",
+        "current_performance": "ROAS: 0.6, CAC: 2.3, Conversion Rate: 3.41",
+        "recommended_actions": "Review ad creatives and targeting for CAMP_027. The high cost per acquisition and low ROAS suggest that the audience might not be as qualified or the ad messaging is not resonating. Consider A/B testing different ad copy and landing page experiences. Re-evaluate keyword targeting to focus on high-intent search terms. Potentially reallocate budget from this campaign to higher-performing Meta Ads or Instagram Influencer campaigns."
+      },
+      {
+        "campaign_type": "Instagram Influencer (CAMP_011)",
+        "current_performance": "ROAS: 1.36, CAC: 8.71, Conversion Rate: 3.63",
+        "recommended_actions": "This campaign has a very high CAC and low ROAS, indicating inefficiency. While the conversion rate is decent, the cost to acquire customers is unsustainable. Analyze influencer selection and audience reach. Ensure influencers are targeting relevant demographics and have genuine engagement. Negotiate influencer fees or focus on micro-influencers with higher engagement rates. Consider pausing or significantly reducing spend until performance improves."
+      },
+      {
+        "campaign_type": "Organic Search (CAMP_024)",
+        "current_performance": "ROAS: 5.69, CAC: 2.06, Conversion Rate: 0.98",
+        "recommended_actions": "While ROAS is positive, the conversion rate is low, and CAC is moderate. Focus on improving on-page SEO for the targeted keywords to increase organic rankings and drive more qualified traffic. Optimize landing pages to better match user intent and improve conversion rates. Consider investing in content marketing to attract a broader, yet relevant, audience."
+      }
+    ],
+    "creative_content": {
+      "ad_headlines": [
+        "Unlock Your Cosmic Destiny Today!",
+        "Your Personalized Astrology Reading Awaits"
+      ],
+      "meta_description": "Discover your future with expert astrology readings. Get personalized insights into love, career, and life path. Start your journey today!"
+    },
+    "strategic_insights": {
+      "overall_health": "The overall campaign health is mixed. While there are strong performers like Instagram Influencer (CAMP_005, CAMP_042) and Meta Ads (CAMP_008) demonstrating high ROAS and efficient CAC, there are significant underperformers like Google Ads (CAMP_027) and one Instagram Influencer campaign (CAMP_011) that are draining budget with poor returns. Organic Search campaigns show potential but require optimization for conversion rates.",
+      "opportunities": [
+        "Leverage high-performing Instagram Influencer and Meta Ads strategies by scaling successful tactics and potentially increasing budget allocation.",
+        "Improve conversion rates for Organic Search traffic by optimizing landing pages and content to better match user intent.",
+        "Explore niche astrological services or specific audience segments (e.g., relationship astrology, career astrology) that may have higher conversion potential.",
+        "Investigate the success factors of CAMP_005 and CAMP_008 to replicate their effective targeting and messaging across other platforms."
+      ],
+      "recommendations": [
+        "Reallocate budget from underperforming Google Ads (CAMP_027) and Instagram Influencer (CAMP_011) campaigns towards scaling the top-performing Meta Ads (CAMP_008) and Instagram Influencer (CAMP_005, CAMP_042) campaigns.",
+        "Conduct a thorough audit of the underperforming Google Ads campaign (CAMP_027) to identify issues with keywords, ad copy, landing page relevance, or audience targeting. Consider pausing it if immediate improvements are not feasible.",
+        "For Organic Search, focus on improving the user journey from search to purchase by enhancing landing page content and calls-to-action to boost conversion rates.",
+        "Develop a more robust influencer vetting process for Instagram Influencer campaigns to ensure alignment with brand values and target audience, and to negotiate more favorable terms for campaigns with high CAC."
+      ]
+    }
+  }
+}

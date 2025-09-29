@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-29T09:05:18.952344",
+    "model_used": "gemini-2.5-flash-lite",
+    "generator_version": "1.0",
+    "source": "streamlit_live_ai_generator",
+    "app_id": "364709193",
+    "app_name": "Apple",
+    "reviews_requested": 100,
+    "reviews_deduplicated": 100,
+    "reviews_analyzed": 98,
+    "average_rating": 3.41,
+    "pages_fetched": 2,
+    "page_size_estimate": 50,
+    "filter_english_only": true,
+    "sort_option": "Most Recent"
+  },
+  "insights": {
+    "category": "Apple_ANALYSIS",
+    "total_reviews_analyzed": 98,
+    "average_rating": 3.41,
+    "sentiment_summary": "The overall sentiment for Apple Books is mixed, with an average rating of 3.41/5. Positive feedback often highlights the app's accessibility, vast selection of books, and convenience for reading and listening. However, significant negative sentiment stems from issues with app functionality (bugs, crashes, playback problems), a perceived lack of free content, and frustrations with user interface and feature limitations, particularly concerning audiobook playback and note-taking/copying functionalities. The app struggles to satisfy users looking for a seamless audiobook experience and those who rely on robust text selection and annotation features.",
+    "requested_features": [
+      {
+        "feature": "Improved Audiobook Playback Continuity",
+        "confidence_score": 0.85,
+        "evidence": "Review 14: 'Since Audiobooks and books are using the same app, features for audiobooks are missing. We need to have the ability to continuously listen to audiobooks. When one ends the next book in the series should start automatically or add an up next feature where we can compile a list of audiobooks to play continuously.'\nReview 21: 'Apple fix or update your app to where it reads aloud continuously while phone is locked, google books has this feature on androids and its annoying when I’m at work and have to keep pressing play when page ends or chapter.'",
+        "recommendation": "Prioritize the development of enhanced audiobook playback features, including seamless progression to the next book in a series, an 'up next' queue, and continuous playback while the phone is locked. This is crucial for users who consume audiobooks extensively."
+      },
+      {
+        "feature": "Enhanced Text Copying and Annotation Functionality",
+        "confidence_score": 0.75,
+        "evidence": "Review 43: '1. Whenever you want to copy a phrase, a sentence or a paragraph, or even a word, it annoyingly adds “ Expert from [book name] Apple Books…and a stupid copyright warning. Yes, you are automatically treated as a plagiarizer'\nReview 45: 'pasting text from Books into note-taking apps, like Apple Notes, also always pastes a citation with the name of the book and author -every time- and there’s no way to turn this off.'\nReview 43: '2. Don’t try to make more than one note for your reading, there is NO way to export/extract them in one shot like other book readers do. You have to export/share it one by one.'",
+        "recommendation": "Implement an option to disable automatic citation and copyright warnings when copying text. Additionally, develop a feature for batch exporting or extracting multiple notes, significantly improving the utility for users who rely on annotation and summarization."
+      },
+      {
+        "feature": "Improved UI/UX for Navigation and Organization",
+        "confidence_score": 0.7,
+        "evidence": "Review 18: 'BRING BACK THE SIDEBAR!!! What genius decided to remove your BEST feature?!?! ... Now when you click out of a collection, you’re back to square one. What used to take seconds now takes minutes. Go back to the UI from ios17. You made it so you have to create far too many clicks.'\nReview 4: 'Book marker and settings haven’t improved at all it’s at the bottom instead of the top. Definitely not user friendly!'",
+        "recommendation": "Re-evaluate recent UI changes, particularly the removal of the sidebar navigation, and consider reverting to or incorporating elements of previous, more user-friendly navigation systems. Also, review the placement and usability of key features like bookmarking and settings."
+      }
+    ],
+    "common_complaints": [
+      {
+        "complaint": "App Functionality Issues and Bugs",
+        "confidence_score": 0.8,
+        "evidence": "Review 1: 'With latest iOS most audiobooks will appears to load but cannot play. Bah!'\nReview 6: 'For some reason as of recent is not opening any of the books on the app.'\nReview 4: 'Omg I Never experience such difficulties with settings from an app. ... The settings tremendously difficult especially BOOKMARK MARK ICON. Omg now REVIEW is not allowing me to write one after I finished.'\nReview 44: 'A recent update made it so only the first page of each shaper can be read in older epubs.'",
+        "recommendation": "Conduct a thorough audit of recent updates to identify and resolve critical bugs affecting audiobook playback, app opening, and core functionalities like settings and bookmarking. Prioritize stability and reliable performance across different content types (audiobooks, epubs)."
+      },
+      {
+        "complaint": "Perceived Lack of Free Content and High Cost of Books",
+        "confidence_score": 0.78,
+        "evidence": "Review 32: 'I thought this app was a horrible app. All of the books are expensive. There is not a single free book on the app. I would suggest Everand instead.'\nReview 35: 'I don’t want to pay for a book which is the exact reason I downloaded this!'\nReview 38: 'I can’t even use this without payment for some reason.'\nReview 25: 'All the books cost money and the samples aren’t long enough I hate it'",
+        "recommendation": "Explore options to increase the availability of free or significantly discounted content, or clearly communicate the value proposition of paid content. Consider offering more generous free samples or a subscription tier that provides access to a wider range of books."
+      },
+      {
+        "complaint": "Issues with Text Search and Language Results",
+        "confidence_score": 0.65,
+        "evidence": "Review 22: 'I try to find a specific book and it find it. Just in every other language except English. I check and all my setting are US. There is 0 reason when I search all my results should be in only other languages.'",
+        "recommendation": "Investigate and resolve issues where search results are predominantly in foreign languages despite the user's region and language settings being set to English (US). Ensure search functionality prioritizes relevant language results."
+      }
+    ]
+  }
+}

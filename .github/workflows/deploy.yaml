@@ -1,0 +1,38 @@
+name: Deploy to Hugging Face Spaces
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install huggingface-hub
+
+      - name: Push to Hugging Face Space
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          SPACE_ID: ${{ secrets.HF_SPACE_ID }}
+        run: |
+          if [ -z "$SPACE_ID" ]; then
+            echo "SPACE_ID secret is not set" && exit 1
+          fi
+          huggingface-cli login --token "$HF_TOKEN"
+          git remote add space https://huggingface.co/spaces/$SPACE_ID.git
+          git push space HEAD:main --force
+

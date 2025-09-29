@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-29T09:58:08.049408",
+    "model_used": "gemini-2.5-flash-lite",
+    "generator_version": "1.0",
+    "source": "streamlit_live_ai_generator",
+    "app_id": "835599320",
+    "app_name": "TikTok",
+    "reviews_requested": 120,
+    "reviews_deduplicated": 120,
+    "reviews_analyzed": 110,
+    "average_rating": 2.08,
+    "pages_fetched": 3,
+    "page_size_estimate": 50,
+    "filter_english_only": true,
+    "sort_option": "Most Recent"
+  },
+  "insights": {
+    "category": "TikTok_ANALYSIS",
+    "total_reviews_analyzed": 110,
+    "average_rating": 2.08,
+    "sentiment_summary": "The overall sentiment for TikTok is overwhelmingly negative, as indicated by the low average rating of 2.08/5. Users frequently express frustration with content moderation, account restrictions, censorship concerns, and perceived toxicity on the platform. Positive feedback is scarce and often overshadowed by these significant pain points. The app is perceived by many as a platform with serious issues regarding free speech, inappropriate content, and unfair account management.",
+    "requested_features": [
+      {
+        "feature": "Improved Content Moderation and Filtering",
+        "confidence_score": 0.95,
+        "evidence": "Review 2: 'It’s really good but…. There’s some inappropriate things on the app. Like there’s filters of people having $3x…. There’s still some of those filters up. There’s also videos of people shaking their b00b$.' Review 19: 'First one being the things TikTok chooses to take down versus leaving up. I have seen literal porn on the app and it’s still up while I’m trying to post an edit a character might have their top falling a bit and it’ll get taken down. People leave very racist comments which TikTok does nothing...' Review 43: 'Please get rid of the inappropriate aspect of tik tok'",
+        "recommendation": "Prioritize a review and enhancement of content moderation algorithms and human moderation processes to more effectively identify and remove inappropriate or harmful content, while ensuring consistent enforcement of community guidelines. This includes addressing sexually explicit material and hate speech."
+      },
+      {
+        "feature": "Restoration of Lost/Removed Account Features (e.g., Repost, Story Posting, Messaging)",
+        "confidence_score": 0.85,
+        "evidence": "Review 11: 'I noticed that I don’t have the repost button or see my repost anymore. Nor do I have the ability to post on TT story. The only way I’m able to do any of that is the uninstall and reinstall, but when I swipe out of the app, I lose it again.' Review 20: 'On my old account I could repost stuff and comment on my repost now I can’t .' Review 35: 'Nah so like i cant comment photos so that docks like 2 stars cuz like i wanna comment photos help me ticitoc💔💔🙏🙏❤️🙏💙💙🎋🎋'",
+        "recommendation": "Investigate and resolve the technical glitches causing users to lose access to features like the repost button, TT stories, and photo commenting. Ensure these features are consistently available across all user accounts and devices, and that updates do not inadvertently remove functionality."
+      },
+      {
+        "feature": "Improved Account Management and Support",
+        "confidence_score": 0.9,
+        "evidence": "Review 4: 'They play favoritism they ban you for no reason also TikTok help is no help I would rather get Instagram anything else but TikTok.' Review 16: 'Unnecessary restriction of my account dms, can’t send messages without being flagged for NO reason. Support isn’t any help either, they keep repeating the same ting and closing tickets without solving the issue.' Review 50: 'I had an issue with my account and support was unhelpful. This error I was having was impacting the user experience.' Review 18: 'i got banned bc someone false reported me and im PERMANENTLY banned like i cant make a new acc but it is what it is😞😞other than that this app is great and i recommend but like ugh tiktok wont respond to my emails so i gave up lol'",
+        "recommendation": "Overhaul the account ban and flagging system to be more transparent and fair, with a robust appeals process. Significantly improve the responsiveness, helpfulness, and problem-solving capabilities of customer support to address user issues effectively and prevent users from being permanently banned due to false reports."
+      }
+    ],
+    "common_complaints": [
+      {
+        "complaint": "Censorship and Free Speech Concerns",
+        "confidence_score": 0.95,
+        "evidence": "Review 1: 'Hypocrites that don’t like free speech but support degenerates and worse' Review 22: 'Why is this social media app not allowing me to talk about the worst most horrible thing happening in the world right now? Hmmmm, I wonder who bought this social media app, seems very anti-free speech.' Review 40: 'this is the most racist app I have encountered. You cannot say the word “white” when referring to white people and must instead right “YT.” on the other hand saying “black “is not a problem. Racist white people are frequently allowed to spew hatred against Black people. Also, censorship is alive and well on this app.' Review 44: 'Unless you wanna be stuck in a right wing censored propaganda machine, jump ship now.'",
+        "recommendation": "Review and clarify content moderation policies to ensure they are applied consistently and do not stifle legitimate discourse. Investigate claims of biased censorship and ensure that users can discuss sensitive topics without undue restriction, while still maintaining platform safety."
+      },
+      {
+        "complaint": "Account Bans and Restrictions (often without clear reason)",
+        "confidence_score": 0.92,
+        "evidence": "Review 4: 'They play favoritism they ban you for no reason also TikTok help is no help' Review 13: 'So I am 13 and y’all banned me from my account and I need my account back' Review 18: 'i got banned bc someone false reported me and im PERMANENTLY banned like i cant make a new acc' Review 28: 'I love TikTok sm but my acc got perm banned for no reason? I don’t understand what I did and I just want my acc back'",
+        "recommendation": "Implement a more transparent and fair system for account bans and suspensions. Provide clear reasons for bans, offer a straightforward appeals process, and ensure that false reports do not lead to permanent account loss. Consider age verification processes that do not unfairly penalize minors."
+      },
+      {
+        "complaint": "Presence of Inappropriate and Toxic Content",
+        "confidence_score": 0.88,
+        "evidence": "Review 2: 'It’s really good but…. There’s some inappropriate things on the app. Like there’s filters of people having $3x…. There’s still some of those filters up. There’s also videos of people shaking their b00b$.' Review 6: 'Tik Tok is so negative and toxic it’s like there’s no nice people on there!' Review 17: 'there are so many pedos' Review 19: 'I have seen literal porn on the app and it’s still up while I’m trying to post an edit a character might have their top falling a bit and it’ll get taken down. People leave very racist comments which TikTok does nothing'",
+        "recommendation": "Strengthen content moderation to proactively identify and remove sexually explicit content, hate speech, and other forms of toxic or inappropriate material. Improve the reporting system for users to flag such content and ensure prompt action is taken."
+      }
+    ]
+  }
+}

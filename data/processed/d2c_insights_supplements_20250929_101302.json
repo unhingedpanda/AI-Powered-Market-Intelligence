@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-29T10:12:46.480103",
+    "model_used": "gemini-2.5-flash-lite",
+    "generator_version": "1.0",
+    "source": "streamlit_live_ai_generator_d2c",
+    "seo_category": "Supplements",
+    "campaigns_provided": 12,
+    "average_roas": 4.526174847032571,
+    "average_ctr": 13.945041479378341,
+    "total_revenue": 57603.02,
+    "channels_included": 4
+  },
+  "insights": {
+    "seo_category": "Supplements",
+    "total_campaigns": 12,
+    "top_performers": [
+      {
+        "campaign_name": "CAMP_039",
+        "roas": 9.69610287831291,
+        "conversion_rate": 1.1,
+        "success_factors": "Extremely high CTR (55%) indicates highly relevant ad creative and targeting. While conversion rate is moderate, the sheer volume of clicks driven by relevance leads to high ROAS. Likely benefits from strong audience segmentation and compelling ad copy."
+      },
+      {
+        "campaign_name": "CAMP_034",
+        "roas": 12.289648555488432,
+        "conversion_rate": 0.65,
+        "success_factors": "Exceptional ROAS driven by very low CAC. Despite a lower conversion rate, the efficiency in acquiring customers is outstanding. This suggests highly targeted keywords and landing pages that resonate with users ready to purchase."
+      },
+      {
+        "campaign_name": "CAMP_022",
+        "roas": 8.62402112787092,
+        "conversion_rate": 0.76,
+        "success_factors": "High ROAS achieved with a very high CTR (12.9%). This campaign effectively captures attention and drives traffic. The high number of signups relative to first purchases might indicate a strong lead generation strategy that needs further nurturing to convert to sales."
+      }
+    ],
+    "optimization_recommendations": [
+      {
+        "campaign_type": "Meta Ads (CAMP_003)",
+        "current_performance": "ROAS: 1.56, CAC: $2.14, Conversion Rate: 4.11%. Decent conversion rate but ROAS is mediocre. CTR is moderate.",
+        "recommended_actions": "Analyze ad creative and audience targeting. Explore A/B testing different ad formats and value propositions. Potentially reallocate budget towards higher-performing Meta Ads campaigns (e.g., CAMP_039, CAMP_038) if similar audiences are targeted."
+      },
+      {
+        "campaign_type": "Instagram Influencer (CAMP_009)",
+        "current_performance": "ROAS: 3.97, CAC: $3.77, Conversion Rate: 4.64%. Strong conversion rate and good ROAS, but CAC is higher than some other channels. High number of signups relative to first purchases.",
+        "recommended_actions": "Evaluate influencer selection and campaign brief. Focus on driving direct purchases rather than just sign-ups by optimizing landing pages and calls-to-action. Consider negotiating performance-based compensation structures."
+      },
+      {
+        "campaign_type": "Google Ads (CAMP_043)",
+        "current_performance": "ROAS: 0.58, CAC: $2.14, Conversion Rate: 3.12%. Very low ROAS and high spend relative to revenue. High number of installs and signups, but low first purchases.",
+        "recommended_actions": "Review keyword targeting and ad relevance. High average position (44.5) suggests poor ad rank, likely due to low Quality Scores or bids. Focus on long-tail keywords with purchase intent. Optimize landing page experience for conversion. Consider pausing or significantly reducing budget until performance improves."
+      },
+      {
+        "campaign_type": "Organic Search (CAMP_037)",
+        "current_performance": "ROAS: 0.96, CAC: $1.71, Conversion Rate: 3.21%. Low ROAS, though CAC is low. Revenue is lower than spend.",
+        "recommended_actions": "Analyze content strategy and keyword performance. While organic is cost-effective for traffic, focus on optimizing content for higher-intent keywords that drive purchases. Improve internal linking and user journey to encourage conversions. Investigate why revenue is low despite decent conversion rate."
+      }
+    ],
+    "creative_content": {
+      "ad_headlines": [
+        "Boost Your Energy Naturally!",
+        "Unlock Peak Performance Today"
+      ],
+      "meta_description": "Discover premium supplements for energy, focus, and wellness. Shop now for high-quality ingredients and fast results. Improve your health journey."
+    },
+    "strategic_insights": {
+      "overall_health": "The overall campaign health is mixed. While there are strong performers like CAMP_034 and CAMP_039 demonstrating high efficiency and ROAS, several campaigns, particularly CAMP_043 (Google Ads) and CAMP_037 (Organic Search), are underperforming significantly in terms of ROAS. Meta Ads campaigns show variability, with some excelling in CTR and others needing optimization. There's a clear opportunity to leverage high-performing channels and tactics more effectively.",
+      "opportunities": [
+        "Leverage high CTR Meta Ads campaigns (e.g., CAMP_039) by scaling budget and refining lookalike audiences.",
+        "Optimize Google Ads for high-intent keywords and improve ad rank to reduce CAC and increase ROAS, similar to the success seen in CAMP_034.",
+        "Investigate the high signup volume in influencer and Meta Ads campaigns (e.g., CAMP_009, CAMP_022) to improve conversion to first purchase.",
+        "Enhance Organic Search content strategy to target keywords with higher purchase intent and improve conversion rates."
+      ],
+      "recommendations": [
+        "Reallocate budget from underperforming Google Ads (CAMP_043) and Organic Search (CAMP_037) to high-performing Meta Ads (CAMP_039) and Google Ads (CAMP_034).",
+        "Conduct a thorough audit of underperforming campaigns, focusing on keyword relevance, ad copy, landing page experience, and audience targeting.",
+        "Implement a robust retargeting strategy for users who sign up but do not purchase, particularly for influencer and Meta Ads campaigns with high signup volumes.",
+        "Explore new channels or partnerships that align with the 'Supplements' category's high-intent search terms and consumer behavior."
+      ]
+    }
+  }
+}

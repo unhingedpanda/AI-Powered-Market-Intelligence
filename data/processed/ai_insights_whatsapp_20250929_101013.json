@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-29T10:10:00.585299",
+    "model_used": "gemini-2.5-flash-lite",
+    "generator_version": "1.0",
+    "source": "streamlit_live_ai_generator",
+    "app_id": "310633997",
+    "app_name": "WhatsApp",
+    "reviews_requested": 50,
+    "reviews_deduplicated": 50,
+    "reviews_analyzed": 47,
+    "average_rating": 3.09,
+    "pages_fetched": 1,
+    "page_size_estimate": 50,
+    "filter_english_only": true,
+    "sort_option": "Most Recent"
+  },
+  "insights": {
+    "category": "WhatsApp_ANALYSIS",
+    "total_reviews_analyzed": 47,
+    "average_rating": 3.09,
+    "sentiment_summary": "The overall sentiment for WhatsApp is mixed, with a significant number of users expressing strong dissatisfaction due to recent updates and persistent bugs, while a considerable portion still values its core functionality for communication. The average rating of 3.09/5 reflects this polarization. Positive feedback highlights its effectiveness in connecting people across distances and its general utility. However, negative feedback is dominated by issues related to app instability, navigation problems, account bans, and a perceived increase in unwanted features like AI bloat. The app's market positioning is strong as a primary communication tool, but its current stability and user experience issues are eroding user trust and satisfaction.",
+    "requested_features": [
+      {
+        "feature": "Ability to save/repost statuses and import custom sounds for statuses",
+        "confidence_score": 0.85,
+        "evidence": "Review 46: 'All this new update on the app isn’t what we asked for.. for years now we’ve asked for only two things 1. Allow anybody’s status to be reposted or saved 2. Add feature where we can use our own sounds “import for local “. Thank you'",
+        "recommendation": "Prioritize the development and implementation of features allowing users to save/repost statuses and import custom sounds for statuses. These are long-standing requests and addressing them could significantly improve user satisfaction and retention."
+      },
+      {
+        "feature": "iPad Support",
+        "confidence_score": 0.7,
+        "evidence": "Review 26: 'This app would deserve 5 stars if not for the deliberate and arbitrary blocking of working on iPad.'",
+        "recommendation": "Investigate the technical feasibility and market demand for an official iPad application. The absence of dedicated iPad support is a notable gap that could be addressed to capture a segment of users who prefer tablet-based communication."
+      },
+      {
+        "feature": "Translation Feature",
+        "confidence_score": 0.65,
+        "evidence": "Review 26: 'Where is the translation feature?'",
+        "recommendation": "Evaluate the potential benefit and user demand for an integrated translation feature within chats. This could enhance cross-cultural communication and broaden the app's utility for international users."
+      }
+    ],
+    "common_complaints": [
+      {
+        "complaint": "App instability, freezing, and bugs, particularly after recent updates",
+        "confidence_score": 0.95,
+        "evidence": "Review 8: 'Since the last update the app keeps freezing whenever I check the views on my status.' Review 29: 'Latest 26 update has multiple issues while on a call the main one is that you cannot go and access the other chats while on a call. Second issue that screen goes black and won’t come back unless you press the lock screen and unlock again! Very frustrating issues, please fix these as it makes conference calling extremely difficult.' Review 43: 'After updating to iOS 26 WhatsApp freezes whenever I want to send a stickers, please fix it ASAP.'",
+        "recommendation": "Immediately address the stability issues reported after recent updates (specifically iOS 26). Conduct thorough QA testing on all new releases, focusing on common user flows like checking status, making calls, navigating chats, and sending media. Prioritize bug fixes that cause freezing and screen blackouts."
+      },
+      {
+        "complaint": "Navigation issues and inability to go back to chats during calls or after viewing media",
+        "confidence_score": 0.9,
+        "evidence": "Review 10: 'After the last update of ios26. If i call someone by entering to the chat of that person and i hit 📞 im not able to go back to my existing chats. However if a call someone from the call history part, im able to go back to chats while on the call. Theres this bug, i verified with my friends here in the usa and they have the same issue however one friend thats in Honduras doesnt have the problem.' Review 29: 'Latest 26 update has multiple issues while on a call the main one is that you cannot go and access the other chats while on a call.' Review 33: 'With the new upgrade - now you cannot navigate inside the app - it blocks you from going back into the other chats - This bug has to be fixed' Review 42: 'Serious navigation challenges on iPhone 16 e after update. It's now impossible to voice call and navigate back to chat another person. The microphone now covers the navigation button. You can not navigate back if you even tap on a picture shared. The microphone icon has replaced the navigate back button.'",
+        "recommendation": "Fix the navigation bugs that prevent users from returning to their chat list during calls or after interacting with media. This is a critical usability issue that severely impacts the core functionality of the app. Ensure UI elements do not obstruct navigation buttons, especially during active calls."
+      },
+      {
+        "complaint": "Account bans and issues with business accounts",
+        "confidence_score": 0.75,
+        "evidence": "Review 2: 'Always make my account banned. When you have a business using this it’s not helpful.' Review 40: 'There has been a daily suspension on WhatsApp services to my phone without any explanation.' Review 39: 'WhatsApp did not work when I was transferring my physical phone to another phone. I kept the same number . I lost all my data . WhatsApp still asking for my old phone to scan QR code to transfer or access my account . Very frustrating.'",
+        "recommendation": "Review and clarify the policies regarding account bans, especially for business users. Provide clearer explanations for suspensions and improve the data transfer process to prevent data loss. Enhance customer support for account-related issues."
+      }
+    ]
+  }
+}
