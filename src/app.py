@@ -1046,7 +1046,7 @@ def show_live_ai_generator():
                 file_name=result.get('download_filename', 'ai_insights.json'),
                 mime="application/json",
                 help="Download complete analysis as JSON",
-                width="stretch",
+                use_container_width=True,
                 key=f"download_live_ai_app_json_{result.get('download_filename', 'ai_insights.json')}_{datetime.now().timestamp()}"
             )
 
@@ -1193,7 +1193,7 @@ def show_live_ai_generator():
                 file_name=result.get('download_filename', 'd2c_insights.json'),
                 mime="application/json",
                 help="Download D2C insight JSON",
-                width="stretch",
+                use_container_width=True,
                 key=f"download_live_ai_d2c_json_{result.get('download_filename', 'd2c_insights.json')}_{datetime.now().timestamp()}"
             )
 
