@@ -1,3 +1,15 @@
+---
+title: AI-Powered Market Intelligence
+emoji: 📊
+colorFrom: indigo
+colorTo: purple
+sdk: streamlit
+sdk_version: "1.28.0"
+app_file: src/app.py
+pinned: false
+license: mit
+---
+
 # AI-Powered Market Intelligence System
 
 A comprehensive end-to-end AI system that ingests data from multiple sources, performs intelligent analysis, and generates actionable market insights for mobile app and D2C e-commerce markets.
@@ -145,6 +157,6 @@ Built for educational and professional demonstration purposes.
 
 ---
 
-**Built by**: Next-Gen AI Marketing Team  
+**Built by**: Yash Raj  
 **Stack**: Python, Streamlit, Pandas, Google Gemini AI  
 **Deployment**: Docker, Hugging Face Spaces Ready
